@@ -1,3 +1,47 @@
+:root {
+    --primary: hsl(322,100%,66%);
+    --secondary: hsl(265,100%,66%);
+    --light: hsl(214,64%,98%);
+    --mid: hsl(208,11%,55%);
+    --dark: hsl(192,100%,9%);
+}
+
 body {
-    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+}
+
+header {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px 30px;
+    text-align: left;
+}
+
+header .logo {
+    margin: 0;
+}
+
+.container {
+    width: 100vw;
+}
+
+.intro {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.users-image {
+    width: 70%;
+}
+
+.mockup {
+    width: 100%;
+}
+.btn-try {
+    position: absolute;
+    right: 50px;
 }
