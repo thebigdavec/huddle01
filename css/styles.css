@@ -193,7 +193,7 @@ button {
 }
 
 .call-to-action {
-  margin: 0 auto 250px;
+  margin: 0 auto 196px;
   width: 82%;
   padding: 70px 5px;
   border-radius: 2px;
@@ -237,9 +237,12 @@ button {
   padding: 25px;
   margin: 0;
   height: 2em;
-  margin-bottom: 2em;
+  margin-bottom: 32px;
   font-size: 1.25em;
+  color: var(--mid);
+  border-radius: 2px;
 }
+
 .mockup {
   width: 100%;
   margin-bottom: 40px;
@@ -259,7 +262,8 @@ button {
   width: 100%;
   box-shadow: none;
   font-size: 1.75rem;
-  color: orange;
+  margin-bottom: 70px;
+  border-radius: 3px;
 }
 
 .social {
@@ -280,7 +284,8 @@ button {
 .copyright {
   font-family: "Poppins", sans-serif;
   font-size: 1.4rem;
+  font-weight: lighter;
   padding: 0;
   color:var(--light);
-  margin-bottom: 50px;
+  margin-bottom: 12px;
 }
