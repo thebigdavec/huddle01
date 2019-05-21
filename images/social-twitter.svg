@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{clip-path:url(#SVGID_4_);}
+	.st2{clip-path:url(#SVGID_4_);fill:#FFFFFF;}
+</style>
+<g id="twit-vec_1_">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" width="50" height="50"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			<defs>
+				<rect id="SVGID_3_" width="50" height="50"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<path class="st1" d="M50,25c0,13.81-11.19,25-25,25S0,38.81,0,25S11.19,0,25,0S50,11.19,50,25"/>
+			<path class="st2" d="M11.75,34.45c0,0,7.83,4.1,13.25,1.74s8.37-6.04,9.4-10.32s1.03-6.93,1.03-6.93s1.47-0.59,2.8-2.65
+				c0,0-0.44,0.88-2.95,0c0,0,0.74,0,2.95-2.06c0,0-3.54,0.15-4.28,0.88c0,0-1.47-2.51-5.31-1.77c-3.83,0.74-4.42,5.6-4.27,7.52
+				c-0.37,0.4-9.81-2.69-11.2-6.49c-0.18,3.11-0.69,6.39,2.01,8.02c0,0-1.32,0.98-3.43-0.79c1.34,2.77,3.23,5.64,5.02,6.17
+				c0.32,0.42-2.85,0.32-2.85,0.32c0,0.94,2.97,2.44,5.5,3.35C18.04,33.46,13.25,34.17,11.75,34.45"/>
+		</g>
+	</g>
+</g>
+</svg>
